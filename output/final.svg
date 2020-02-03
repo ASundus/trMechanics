@@ -13,7 +13,7 @@
   <rect x="0" y="0" width="150" height="107" stroke-width="0.2" stroke="white" fill="white"/>
   <text x="1.25" y="3"
    font-family="Arial" font-size="2.5" fill="black" >
-   Current time: 0 days, 0 hours, and 5.01 minutes, z = 0.00 &#956;m
+   Current time: 0 days, 0 hours, and 55.01 minutes, z = 0.00 &#956;m
   </text>
   <text x="1.25" y="5.75"
    font-family="Arial" font-size="2.375" fill="black" >
@@ -25,46 +25,63 @@
   </g>
   <g id="cells">
    <g id="cell0">
-  <circle cx="20" cy="57.1964" r="16.8254" stroke-width="0.5" stroke="rgba(0,0,1,0.1)" fill="rgba(0,0,1,0.1)"/>
-  <circle cx="20" cy="57.1964" r="8.41271" stroke-width="0.5" stroke="rgb(0,0,0)" fill="blue"/>
-  <circle cx="20" cy="57.1964" r="5.05167" stroke-width="0.5" stroke="rgb(0,0,0)" fill="blue"/>
+  <circle cx="20" cy="58.2587" r="10.5159" stroke-width="0.5" stroke="rgba(0,0,1,0.1)" fill="rgba(0,0,1,0.1)"/>
+  <circle cx="20" cy="58.2587" r="8.41271" stroke-width="0.5" stroke="blue" fill="blue"/>
+  <circle cx="20" cy="58.2587" r="8.01211" stroke-width="0.5" stroke="red" fill="rgba(1,0,0,0.0)"/>
+  <circle cx="20" cy="58.2587" r="5.05167" stroke-width="0.5" stroke="blue" fill="blue"/>
    </g>
    <g id="cell1">
-  <circle cx="20" cy="43.3036" r="16.8254" stroke-width="0.5" stroke="rgba(0,0,1,0.1)" fill="rgba(0,0,1,0.1)"/>
-  <circle cx="20" cy="43.3036" r="8.41271" stroke-width="0.5" stroke="rgb(0,0,0)" fill="blue"/>
-  <circle cx="20" cy="43.3036" r="5.05167" stroke-width="0.5" stroke="rgb(0,0,0)" fill="blue"/>
+  <circle cx="20" cy="42.2413" r="10.5159" stroke-width="0.5" stroke="rgba(0,0,1,0.1)" fill="rgba(0,0,1,0.1)"/>
+  <circle cx="20" cy="42.2413" r="8.41271" stroke-width="0.5" stroke="blue" fill="blue"/>
+  <circle cx="20" cy="42.2413" r="8.01211" stroke-width="0.5" stroke="red" fill="rgba(1,0,0,0.0)"/>
+  <circle cx="20" cy="42.2413" r="5.05167" stroke-width="0.5" stroke="blue" fill="blue"/>
    </g>
    <g id="cell2">
-  <circle cx="55" cy="56.9615" r="16.8254" stroke-width="0.5" stroke="rgba(0,0,1,0.1)" fill="rgba(0,0,1,0.1)"/>
-  <circle cx="55" cy="56.9615" r="8.41271" stroke-width="0.5" stroke="rgb(0,0,0)" fill="blue"/>
-  <circle cx="55" cy="56.9615" r="5.05167" stroke-width="0.5" stroke="rgb(0,0,0)" fill="blue"/>
+  <circle cx="55" cy="58.0088" r="10.5159" stroke-width="0.5" stroke="rgba(0,0,1,0.1)" fill="rgba(0,0,1,0.1)"/>
+  <circle cx="55" cy="58.0088" r="8.41271" stroke-width="0.5" stroke="blue" fill="blue"/>
+  <circle cx="55" cy="58.0088" r="8.01211" stroke-width="0.5" stroke="red" fill="rgba(1,0,0,0.0)"/>
+  <circle cx="55" cy="58.0088" r="5.05167" stroke-width="0.5" stroke="blue" fill="blue"/>
    </g>
    <g id="cell3">
-  <circle cx="55" cy="43.0385" r="16.8254" stroke-width="0.5" stroke="rgba(0,0,1,0.1)" fill="rgba(0,0,1,0.1)"/>
-  <circle cx="55" cy="43.0385" r="8.41271" stroke-width="0.5" stroke="rgb(0,0,0)" fill="blue"/>
-  <circle cx="55" cy="43.0385" r="5.05167" stroke-width="0.5" stroke="rgb(0,0,0)" fill="blue"/>
+  <circle cx="55" cy="41.9912" r="10.5159" stroke-width="0.5" stroke="rgba(0,0,1,0.1)" fill="rgba(0,0,1,0.1)"/>
+  <circle cx="55" cy="41.9912" r="8.41271" stroke-width="0.5" stroke="blue" fill="blue"/>
+  <circle cx="55" cy="41.9912" r="8.01211" stroke-width="0.5" stroke="red" fill="rgba(1,0,0,0.0)"/>
+  <circle cx="55" cy="41.9912" r="5.05167" stroke-width="0.5" stroke="blue" fill="blue"/>
    </g>
    <g id="cell4">
-  <circle cx="95" cy="59.6433" r="16.8254" stroke-width="0.5" stroke="rgba(0,0,1,0.1)" fill="rgba(0,0,1,0.1)"/>
-  <circle cx="95" cy="59.6433" r="8.41271" stroke-width="0.5" stroke="rgb(0,0,0)" fill="blue"/>
-  <circle cx="95" cy="59.6433" r="5.05167" stroke-width="0.5" stroke="rgb(0,0,0)" fill="blue"/>
+  <circle cx="95" cy="59.9408" r="10.5159" stroke-width="0.5" stroke="rgba(0,0,1,0.1)" fill="rgba(0,0,1,0.1)"/>
+  <circle cx="95" cy="59.9408" r="8.41271" stroke-width="0.5" stroke="blue" fill="blue"/>
+  <circle cx="95" cy="59.9408" r="8.01211" stroke-width="0.5" stroke="red" fill="rgba(1,0,0,0.0)"/>
+  <circle cx="95" cy="59.9408" r="5.05167" stroke-width="0.5" stroke="blue" fill="blue"/>
    </g>
    <g id="cell5">
-  <circle cx="95" cy="40.3567" r="16.8254" stroke-width="0.5" stroke="rgba(0,0,1,0.1)" fill="rgba(0,0,1,0.1)"/>
-  <circle cx="95" cy="40.3567" r="8.41271" stroke-width="0.5" stroke="rgb(0,0,0)" fill="blue"/>
-  <circle cx="95" cy="40.3567" r="5.05167" stroke-width="0.5" stroke="rgb(0,0,0)" fill="blue"/>
+  <circle cx="95" cy="40.0592" r="10.5159" stroke-width="0.5" stroke="rgba(0,0,1,0.1)" fill="rgba(0,0,1,0.1)"/>
+  <circle cx="95" cy="40.0592" r="8.41271" stroke-width="0.5" stroke="blue" fill="blue"/>
+  <circle cx="95" cy="40.0592" r="8.01211" stroke-width="0.5" stroke="red" fill="rgba(1,0,0,0.0)"/>
+  <circle cx="95" cy="40.0592" r="5.05167" stroke-width="0.5" stroke="blue" fill="blue"/>
    </g>
    <g id="cell6">
-  <circle cx="130" cy="70" r="16.8254" stroke-width="0.5" stroke="rgba(0,0,1,0.1)" fill="rgba(0,0,1,0.1)"/>
-  <circle cx="130" cy="70" r="8.41271" stroke-width="0.5" stroke="rgb(0,0,0)" fill="blue"/>
-  <circle cx="130" cy="70" r="5.05167" stroke-width="0.5" stroke="rgb(0,0,0)" fill="blue"/>
+  <circle cx="130" cy="70" r="10.5159" stroke-width="0.5" stroke="rgba(0,0,1,0.1)" fill="rgba(0,0,1,0.1)"/>
+  <circle cx="130" cy="70" r="8.41271" stroke-width="0.5" stroke="blue" fill="blue"/>
+  <circle cx="130" cy="70" r="8.01211" stroke-width="0.5" stroke="red" fill="rgba(1,0,0,0.0)"/>
+  <circle cx="130" cy="70" r="5.05167" stroke-width="0.5" stroke="blue" fill="blue"/>
    </g>
    <g id="cell7">
-  <circle cx="130" cy="30" r="16.8254" stroke-width="0.5" stroke="rgba(0,0,1,0.1)" fill="rgba(0,0,1,0.1)"/>
-  <circle cx="130" cy="30" r="8.41271" stroke-width="0.5" stroke="rgb(0,0,0)" fill="blue"/>
-  <circle cx="130" cy="30" r="5.05167" stroke-width="0.5" stroke="rgb(0,0,0)" fill="blue"/>
+  <circle cx="130" cy="30" r="10.5159" stroke-width="0.5" stroke="rgba(0,0,1,0.1)" fill="rgba(0,0,1,0.1)"/>
+  <circle cx="130" cy="30" r="8.41271" stroke-width="0.5" stroke="blue" fill="blue"/>
+  <circle cx="130" cy="30" r="8.01211" stroke-width="0.5" stroke="red" fill="rgba(1,0,0,0.0)"/>
+  <circle cx="130" cy="30" r="5.05167" stroke-width="0.5" stroke="blue" fill="blue"/>
    </g>
   </g>
+  <g id="cells">
+  <circle cx="20" cy="58.2587" r="8.01211" stroke-width="0.5" stroke="red" fill="rgba(1,0,0,0.0)"/>
+  <circle cx="20" cy="42.2413" r="8.01211" stroke-width="0.5" stroke="red" fill="rgba(1,0,0,0.0)"/>
+  <circle cx="55" cy="58.0088" r="8.01211" stroke-width="0.5" stroke="red" fill="rgba(1,0,0,0.0)"/>
+  <circle cx="55" cy="41.9912" r="8.01211" stroke-width="0.5" stroke="red" fill="rgba(1,0,0,0.0)"/>
+  <circle cx="95" cy="59.9408" r="8.01211" stroke-width="0.5" stroke="red" fill="rgba(1,0,0,0.0)"/>
+  <circle cx="95" cy="40.0592" r="8.01211" stroke-width="0.5" stroke="red" fill="rgba(1,0,0,0.0)"/>
+  <circle cx="130" cy="70" r="8.01211" stroke-width="0.5" stroke="red" fill="rgba(1,0,0,0.0)"/>
+  <circle cx="130" cy="30" r="8.01211" stroke-width="0.5" stroke="red" fill="rgba(1,0,0,0.0)"/>
  </g>
   <rect x="-52.5" y="103.5" width="200" height="1" stroke-width="0.2" stroke="rgb(255,255,255)" fill="rgb(0,0,0)"/>
   <text x="-51.875" y="102.875"
@@ -73,7 +90,7 @@
   </text>
   <text x="2.5" y="104.5"
    font-family="Arial" font-size="1.875" fill="black" >
-   0 days, 0 hours, 0 minutes, and 0.9003 seconds
+   0 days, 0 hours, 0 minutes, and 7.9345 seconds
   </text>
   <rect x="0" y="7" width="150" height="100" stroke-width="0.2" stroke="rgb(0,0,0)" fill="none"/>
 </svg>
